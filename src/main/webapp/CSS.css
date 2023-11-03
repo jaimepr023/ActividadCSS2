@@ -1,0 +1,48 @@
+@charset "UTF-8";
+
+
+.Titulo{
+	font-size: 3rem;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.caract{
+	Display:flex;
+	color:blue;
+}
+
+.caract1:hover{
+	color:black;
+}
+
+.tabla{
+	width: 80%;
+	max-width: 950;
+	background-color: gray;
+	text-align: left;
+	border:solid red;
+	}
+
+.tit_cont{
+	color:red;
+	font-size:2rem ;
+	margin-left: .5;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	margin-bottom: 1rem;
+	margin-top:.5rem ;
+	
+}
+
+.blanco{
+	float: left;
+	clear: left;
+	color:white;
+	margin-left: .5;
+	margin-bottom: 1rem;
+	text-transform: capitalize
+}
+
+.link{
+	color:blue;
+	text-decoration: underline;
+}
